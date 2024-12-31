@@ -1,6 +1,7 @@
 # New Year's Eve Party Ticket Minting
 
-![image](https://github.com/user-attachments/assets/3642ace8-04df-4138-857b-869fa5b2fb81)
+![image](https://github.com/user-attachments/assets/01276ca5-d0ee-4551-bd4c-6584cc19ade2)
+
 
 This project allows users to mint a ticket for a New Year's Eve party using Ethereum-based smart contracts deployed via **Remix IDE** and interacted with through **Web3.js**. The application features a countdown timer to the event and a mint button to get a ticket.
 
@@ -117,8 +118,7 @@ To interact with the smart contract, you’ll need the contract address and ABI.
 ![image](https://github.com/user-attachments/assets/385fe860-124f-47ab-8fdf-c2b3a27637a9)
 
 
-![image](https://github.com/user-attachments/assets/01276ca5-d0ee-4551-bd4c-6584cc19ade2)
-
+![image](https://github.com/user-attachments/assets/3642ace8-04df-4138-857b-869fa5b2fb81)
 
 
 ## Contributing
